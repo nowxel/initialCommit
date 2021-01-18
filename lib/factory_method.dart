@@ -13,7 +13,9 @@ class Coffee implements Drinkable {
     print("Pouring a refreshing coffee!");
   }
 }
-
+//comment1
+//comment2
+//comment3
 abstract class DrinkFactory {
   Drinkable createDrink();
 }
